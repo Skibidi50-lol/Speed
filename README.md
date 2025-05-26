@@ -3,7 +3,7 @@ roblox speed modules
 
 ## Loading speed modules
 ```lua
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Skibidi50-lol/Speed/refs/heads/main/speed.lua"))()
 ```
 
 
