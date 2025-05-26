@@ -3,7 +3,7 @@ roblox speed modules
 
 ## Loading speed modules
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Stratxgy/Lua-Speed/refs/heads/main/speed.lua"))()
+loadstring(game:HttpGet(""))()
 ```
 
 
